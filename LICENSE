@@ -632,7 +632,7 @@ state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
     Quant4Qual
-    Copyright (C) 2024  afect-techno
+    Copyright (C) 2024  Zafi Moore
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -647,14 +647,14 @@ the "copyright" line and a pointer to where the full notice is found.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-To contact the main developer, email afect.techno@gmail.com
+To contact the main developer, email affect.techno@gmail.com
 
 TODO:
 
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    Quant4Qual  Copyright (C) 2024  afect-techno
+    Quant4Qual  Copyright (C) 2024  Zafi Moore
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
